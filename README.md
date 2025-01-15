@@ -1,16 +1,25 @@
-# aplicacion
+# Aplicación de Objetos Perdidos
 
-A new Flutter project.
+**Aplicación de Objetos Perdidos** es un prototipo móvil desarrollado en **Flutter** con **Dart** para dispositivos Android, diseñado para la gestión y recuperación de objetos perdidos. Este proyecto es un primer bosquejo que busca explorar las posibilidades de una solución digital para esta problemática.
 
-## Getting Started
+## Características principales
 
-This project is a starting point for a Flutter application.
+- **Gestión de objetos perdidos**: Permite registrar, consultar, actualizar y eliminar información de objetos.
+- **Carga de imágenes**: Los usuarios pueden subir imágenes junto con la descripción del objeto.
+- **Sistema de chat**: Incluye un sistema de mensajería para facilitar la comunicación entre usuarios.
+- **Inicio de sesión**: Implementación de autenticación con correo electrónico y contraseña.
+- **Base de datos en la nube**: Utiliza **Firebase** para el almacenamiento de datos.
 
-A few resources to get you started if this is your first Flutter project:
+## Estado del proyecto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Este prototipo se encuentra en una etapa inicial, desarrollado como proyecto académico en la universidad. Aunque funcional, se planean mejoras para incluir:
+- Diseño más robusto y estético.
+- Funcionalidades avanzadas de búsqueda y notificaciones en tiempo real.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologías utilizadas
+
+- **Framework móvil**: Flutter
+- **Lenguaje**: Dart
+- **Base de datos**: Firebase Firestore
+- **Almacenamiento de imágenes**: Firebase Storage
+- **Autenticación**: Firebase Authentication
