@@ -1,6 +1,6 @@
 # Aplicación de Objetos Perdidos
 
-**Aplicación de Objetos Perdidos** es un prototipo móvil desarrollado en **Flutter** con **Dart** para dispositivos Android, diseñado para la gestión y recuperación de objetos perdidos. Este proyecto es un primer bosquejo que busca explorar las posibilidades de una solución digital para esta problemática.
+**Aplicación de Objetos Perdidos** es un prototipo móvil desarrollado en **Flutter** con **Dart** para dispositivos Android, diseñado para la gestión y recuperación de objetos perdidos en mi universidad.
 
 ## Características principales
 
